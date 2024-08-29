@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TamalKaushik
 - 👀 I’m interested in space, astronomy, 3D modelling, cars, chess & football
 - 🌱 I’m currently learning Python & C++
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Automobile or Astronomical Industries 
 - 📫 How to reach me : fb
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There are planets which revolve around blackholes, which are called blanets
